@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/actualizar-contrasenia",
+    "/consultar-usuarios",
+    "/crear-usuarios",
+    "/dashboard",
+    "/generar-reporte",
+    "/home",
+    "/login"
+  ]
+}
